@@ -1,0 +1,1 @@
+en la clase person no debiera estar el metodo giveUpOwnershipToThirdParty(ClassLibrary1.Person) Void
